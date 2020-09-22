@@ -1,0 +1,32 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+plugins:
+  - jekyll-gist
+  - jekyll-paginate
+  - jekyll-seo-tag
+
+
+# Setup
+title:            Chendong Wang
+subtitle:         王晨东
+tagline:          'UMN'
+description:      "MSCS, University of Minnesota"
+email:            "Email: wang9235[at]umn.edu"
+url:              http://hyde.getpoole.com
+baseurl:          /
+
+author:
+  name:           'Mark Otto'
+  url:            https://twitter.com/mdo
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/poole/hyde
