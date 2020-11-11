@@ -45,6 +45,19 @@ html {
   }
 }
 
+.main {
+  width: 320px;
+  margin: 0 auto;
+  overflow: hidden;
+  position: relative;
+  height: 200px;
+}
+
+img.absolute {
+  left: 50%;
+  margin-left: -200px;
+  position: absolute;
+}
 
 /*
  * Sidebar
