@@ -4,7 +4,7 @@
  <title>Chendong Wang</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-11-11T09:20:29-05:00</updated>
+ <updated>2021-02-26T20:02:05-06:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Mark Otto</name>
@@ -15,9 +15,9 @@
  <entry>
    <title>ABOUT ME</title>
    <link href="http://localhost:4000/2020/08/03/bio/"/>
-   <updated>2020-08-03T00:00:00-04:00</updated>
+   <updated>2020-08-03T00:00:00-05:00</updated>
    <id>http://localhost:4000/2020/08/03/bio</id>
-   <content type="html">&lt;p&gt;I am a master student at &lt;a href=&quot;https://twin-cities.umn.edu/&quot;&gt;University of Minnesota&lt;/a&gt;, majoring in &lt;a href=&quot;https://www.cs.umn.edu/&quot;&gt;Computer Science&lt;/a&gt;. I am currently working with &lt;a href=&quot;https://www-users.cs.umn.edu/~fengqian/&quot;&gt;Prof. Feng Qian&lt;/a&gt; on video streaming systems. I am also working with &lt;a href=&quot;https://chentianyi1991.github.io/&quot;&gt;Prof. Tianyi Chen&lt;/a&gt; on networked multi-agent reinforcement learning.&lt;/p&gt;
+   <content type="html">&lt;p&gt;I am a master student at &lt;a href=&quot;https://twin-cities.umn.edu/&quot;&gt;University of Minnesota&lt;/a&gt;, majoring in &lt;a href=&quot;https://www.cs.umn.edu/&quot;&gt;Computer Science&lt;/a&gt;. I am currently working with &lt;a href=&quot;https://www-users.cs.umn.edu/~fengqian/&quot;&gt;Prof. Feng Qian&lt;/a&gt; on video streaming systems. I am also working with &lt;a href=&quot;https://chentianyi1991.github.io/&quot;&gt;Prof. Tianyi Chen&lt;/a&gt; on federated learning and networked multi-agent reinforcement learning.&lt;/p&gt;
 
 &lt;p&gt;Before comming to Minnesota, I got my bachelor degree at &lt;a href=&quot;https://www.fudan.edu.cn/en/&quot;&gt;Fudan University&lt;/a&gt;, where I was fortunate to be advised by &lt;a href=&quot;http://medianet.azurewebsites.net/yuedong-xu/&quot;&gt;Prof. Yuedong Xu&lt;/a&gt;.&lt;/p&gt;
 
@@ -28,7 +28,7 @@
  <entry>
    <title>EDUCATION</title>
    <link href="http://localhost:4000/2020/08/02/education/"/>
-   <updated>2020-08-02T00:00:00-04:00</updated>
+   <updated>2020-08-02T00:00:00-05:00</updated>
    <id>http://localhost:4000/2020/08/02/education</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;strong&gt;University of Minnesota, Twin Cities&lt;/strong&gt;, Minneapolis, U.S. : M.S., Computer Science, 2019.9 - Now&lt;/li&gt;
@@ -41,7 +41,7 @@
  <entry>
    <title>PUBLICATION</title>
    <link href="http://localhost:4000/2020/08/01/publication/"/>
-   <updated>2020-08-01T00:00:00-04:00</updated>
+   <updated>2020-08-01T00:00:00-05:00</updated>
    <id>http://localhost:4000/2020/08/01/publication</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;strong&gt;Mobile Volumetric Video Streaming Enhanced by Super Resolution&lt;/strong&gt;
@@ -54,6 +54,9 @@
 &lt;br /&gt;Xing Liu, Christina Vlachou, Feng Qian, Chendong Wang, and Kyu-Han Kim.
 &lt;br /&gt; &lt;font color=&quot;red&quot;&gt;in USENIX ATC 2020&lt;/font&gt;
 &lt;button type=&quot;button&quot; class=&quot;button button2&quot;&gt;&lt;a class=&quot;conf&quot; target=&quot;_blank&quot; href=&quot;pdf/atc20-liu-xing.pdf&quot;&gt;Paper&lt;/a&gt;&lt;/button&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Efficient Volumetric Video Streaming Through Super Resolution&lt;/strong&gt;
+&lt;br /&gt;Anlan Zhang, Chendong Wang, Bo Han, Feng Qian.
+&lt;br /&gt; &lt;font color=&quot;red&quot;&gt;in HotMobile 2021&lt;/font&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </content>
  </entry>

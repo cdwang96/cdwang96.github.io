@@ -50,11 +50,11 @@ html {
   margin: 0 auto;
   overflow: hidden;
   position: relative;
-  height: 200px;
+  height: 400px;
 }
 
 img.absolute {
-  left: 50%;
+  left: 60%;
   margin-left: -200px;
   position: absolute;
 }
@@ -259,6 +259,15 @@ a.sidebar-nav-item:focus {
 /* .theme-base-0d .content a, */
 .theme-base-0d .related-posts li a:hover {
   color: #6a9fb5;
+}
+
+/* Black */
+.theme-base-0b .sidebar {
+  background-color: #181a1a;
+}
+/* .theme-base-0d .content a, */
+.theme-base-0b .related-posts li a:hover {
+  color: #181a1a;
 }
 
 /* Magenta */

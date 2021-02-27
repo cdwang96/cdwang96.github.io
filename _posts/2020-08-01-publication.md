@@ -15,4 +15,4 @@ title: PUBLICATION
 <button type="button" class="button button2"><a class="conf" target="_blank" href="pdf/atc20-liu-xing.pdf">Paper</a></button>
 - **Efficient Volumetric Video Streaming Through Super Resolution**
 <br>Anlan Zhang, Chendong Wang, Bo Han, Feng Qian.
-<br> <font color=red>in submission HotMobile 2021</font>
+<br> <font color=red>in HotMobile 2021</font>
