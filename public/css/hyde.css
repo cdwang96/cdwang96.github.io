@@ -234,15 +234,6 @@ a.sidebar-nav-item:focus {
   color: #f4bf75;
 }
 
-/* Green */
-.theme-base-0b .sidebar {
-  background-color: #90a959;
-}
-
-.theme-base-0b .related-posts li a:hover {
-  color: #90a959;
-}
-
 /* Cyan */
 .theme-base-0c .sidebar {
   background-color: #75b5aa;
