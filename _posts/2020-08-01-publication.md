@@ -3,6 +3,9 @@ layout: page
 title: PUBLICATION
 ---
 
+- **Efficient Volumetric Video Streaming Through Super Resolution**
+<br>Anlan Zhang, Chendong Wang, Bo Han, Feng Qian.
+<br> <font color=red>in HotMobile 2021</font>
 - **Mobile Volumetric Video Streaming Enhanced by Super Resolution**
 <br>Anlan Zhang, Chendong Wang, Xing Liu, Bo Han, Feng Qian.
 <br> <font color=red>in MobiSys 2020 (Poster)</font>
@@ -13,6 +16,3 @@ title: PUBLICATION
 <br>Xing Liu, Christina Vlachou, Feng Qian, Chendong Wang, and Kyu-Han Kim.
 <br> <font color=red>in USENIX ATC 2020</font>
 <button type="button" class="button button2"><a class="conf" target="_blank" href="pdf/atc20-liu-xing.pdf">Paper</a></button>
-- **Efficient Volumetric Video Streaming Through Super Resolution**
-<br>Anlan Zhang, Chendong Wang, Bo Han, Feng Qian.
-<br> <font color=red>in HotMobile 2021</font>
