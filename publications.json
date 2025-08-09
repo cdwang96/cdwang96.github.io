@@ -1,0 +1,148 @@
+{
+  "publications": [
+    {
+  "title": "Video-in-the-Loop: Efficient Two-Stage Framework for Temporal Video Grounding and Multi-Choice QA",
+  "authors": [
+    "Chendong Wang", "Donglin Bai", "Yifan Yang", "Xiao Jin", "Anlan Zhang", "Rui Wang",
+    "Shiqi Jiang", "Yuqing Yang", "Xufang Luo", "Hao Wu", "Qi Dai", "Chong Luo",
+    "Ting Cao", "Lili Qiu", "Suman Banerjee"
+  ],
+  "venue": "In submission",
+  "thumbnail": "static/vitl.png",
+  "selected": 1,
+  "award": "",
+  "links": {
+    "pdf": "index.html"
+  }
+},
+{
+  "title": "Switched or Switchless: An Empirical Study of SAN Architecture for Disaggregated Storage",
+  "authors": ["Chendong Wang", "Joontaek Oh", "Ming Liu"],
+  "venue": "NSDI 26",
+  "thumbnail": "static/nsdi26.png",
+  "selected": 1,
+  "award": "",
+  "links": {
+
+    "pdf": "#"
+  }
+},
+{
+  "title": "Zoomer: Enhancing MLLM Performance with Adaptive Image Focus Optimization",
+  "authors": [],
+  "venue": "In submission!",
+  "thumbnail": "static/zoomer.png",
+      "selected": 1,
+      "award": "",
+      "links": {
+        "pdf": "https://arxiv.org/abs/2505.00742"
+      }
+    },
+    {
+      "title": "VoLUT: Efficient Volumetric streaming enhanced by LUT-based super-resolution",
+      "authors": [
+        "Chendong Wang",
+        "Anlan Zhang",
+        "Yifan Yang",
+        "Lili Qiu",
+        "Yuqing Yang",
+        "XINYANG JIANG",
+        "Feng Qian",
+        "Suman Banerjee"
+      ],
+      "venue": "MLSys 25",
+      "thumbnail": "static/volut.png",
+      "selected": 1,
+      "award": "",
+      "links": {
+        "pdf": "https://arxiv.org/pdf/2502.12151"
+      }
+    },
+    {
+      "title": "Habitus: Boosting Mobile Immersive Content Delivery through Full-body Pose Tracking and Multipath Networking",
+      "authors": [
+        "Anlan Zhang",
+        "Chendong Wang",
+        "Yumin Hu",
+        "Ahmad Hassan",
+        "Zejun Zhang",
+        "Bo Han",
+        "Feng Qian",
+        "Shichang Xu"
+      ],
+      "venue": "NSDI 24",
+      "thumbnail": "static/nsdi24.png",
+      "selected": 1,
+      "award": "",
+      "links": {
+        "pdf": "https://www.usenix.org/system/files/nsdi24-zhang-anlan.pdf"
+      }
+    },
+    {
+      "title": "YuZu: Super-resolution Enhanced Volumetric Video Streaming",
+      "authors": [
+        "Anlan Zhang",
+        "Chendong Wang",
+        "Bo Han",
+        "Feng Qian"
+      ],
+      "venue": "NSDI 22",
+      "thumbnail": "static/nsdi22.png",
+      "selected": 1,
+      "award": "",
+      "links": {
+        "pdf": "static/pdf/nsdi22-paper-zhang.pdf"
+      }
+    },
+    {
+      "title": "Efficient Volumetric Video Streaming Through Super Resolution",
+      "authors": [
+        "Anlan Zhang",
+        "Chendong Wang",
+        "Bo Han",
+        "Feng Qian"
+      ],
+      "venue": "HotMobile 21",
+      "thumbnail": "static/htmb21.png",
+      "selected": 1,
+      "award": "",
+      "links": {
+        "pdf": "static/pdf/sr_hotmobile21.pdf"
+      }
+    },
+    {
+      "title": "Mobile Volumetric Video Streaming Enhanced by Super Resolution",
+      "authors": [
+        "Anlan Zhang",
+        "Chendong Wang",
+        "Xing Liu",
+        "Bo Han",
+        "Feng Qian"
+      ],
+      "venue": "MobiSys 20 (Poster)",
+      "thumbnail": "static/mbsys20.png",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "pdf": "static/pdf/Mobisys2020Poster.pdf"
+      }
+    },
+    {
+      "title": "Firefly: Untethered Multi-user VR for Commodity Mobile Devices",
+      "authors": [
+        "Xing Liu",
+        "Christina Vlachou",
+        "Feng Qian",
+        "Chendong Wang",
+        "Kyu-Han Kim"
+      ],
+      "venue": "ATC 21",
+      "thumbnail": "static/firefly.png",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "pdf": "static/pdf/atc20-liu-xing.pdf"
+      }
+    }
+  ]
+}
